@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View All</name>
+   <tag></tag>
+   <elementGuidId>82dbaa4f-0c5e-4d0d-96fe-4c731e49fbb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.roboto-medium.viewAll.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='output']/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70089e89-e6d8-46b3-b610-8ca39f02d039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/search/?viewAll=speakers</value>
+      <webElementGuid>95f405bc-d273-4329-ac06-bac370ac68a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>View_All</value>
+      <webElementGuid>0f7dcd03-838b-4f33-aa1c-620462eede67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-medium viewAll ng-scope</value>
+      <webElementGuid>50dcb683-4b86-43e0-afaf-0ffa16ec1916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View All</value>
+      <webElementGuid>1792a135-10a3-432b-a6bc-a79d4b218242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;searchPopUp&quot;]/div[@class=&quot;top6Products&quot;]/a[@class=&quot;roboto-medium viewAll ng-scope&quot;]</value>
+      <webElementGuid>6dcf9aaa-39c1-4837-9b77-dfa665f38cf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/div[2]/a</value>
+      <webElementGuid>96286f0c-4587-43e0-b11b-ca608c1d6d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View All')]</value>
+      <webElementGuid>ba5d1627-18a7-4aa7-8bf3-8df24236c578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/search/?viewAll=speakers')])[2]</value>
+      <webElementGuid>d4e703e6-064b-4225-b8f4-5b3243e2076f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>3d16237a-6e58-45e7-91ad-fa2cfff11a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/search/?viewAll=speakers' and (text() = 'View All' or . = 'View All')]</value>
+      <webElementGuid>dc073ce2-8278-4517-8354-97406971cdca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Contact Us</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6e46f803-1add-4d01-b2f0-44f92db7a92c</testSuiteGuid>
+   <testCaseLink>
+      <guid>926f8731-b0b6-42b0-b0b5-49cc642b6266</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Laptops'</defaultValue>
+         <description></description>
+         <id>82b27f11-cc31-4033-9b44-75554930076c</id>
+         <masked>false</masked>
+         <name>Category1</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Support/Contact Us/Data Driven - Contact Us</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>13f966b4-636c-4b0a-8b17-d6b09f40f522</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Contact Us</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>13f966b4-636c-4b0a-8b17-d6b09f40f522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Category1</value>
+         <variableId>82b27f11-cc31-4033-9b44-75554930076c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13f966b4-636c-4b0a-8b17-d6b09f40f522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Product</value>
+         <variableId>38d8f012-d810-402c-bd3e-8864d5878ae8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13f966b4-636c-4b0a-8b17-d6b09f40f522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>d6186442-8be7-49de-ab4d-1dce416f3cdb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13f966b4-636c-4b0a-8b17-d6b09f40f522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Subject</value>
+         <variableId>af4c613d-4f8e-4b60-b3b9-5f28303eb588</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>01cda914-db50-4835-b918-2e5ff591c1a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Support/Contact Us/DD - G Var - Contact Us</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc7a972e-de83-4b53-9b3e-6d8c7ba511c6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Support/Contact Us/Normal - Contact Us</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

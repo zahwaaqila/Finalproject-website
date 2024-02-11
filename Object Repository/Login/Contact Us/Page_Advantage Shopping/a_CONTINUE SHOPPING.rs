@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONTINUE SHOPPING</name>
+   <tag></tag>
+   <elementGuidId>6e1e4f14-9cd8-4786-9146-72ad63890973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-button.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='registerSuccessCover']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db2cada4-fe08-4ab3-bb68-49a2f344075c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button ng-binding</value>
+      <webElementGuid>a5842d13-3cba-4fa3-be68-168c8c0b2cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/</value>
+      <webElementGuid>676b641e-ae12-483a-bf6c-a6ae337ab978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>continueShopping()</value>
+      <webElementGuid>faab335d-a06e-4657-8daa-d0a6749f5005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CONTINUE SHOPPING </value>
+      <webElementGuid>d1c872d8-54de-4be5-acfc-1945b09ec861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerSuccessCover&quot;)/div[@class=&quot;center&quot;]/a[@class=&quot;a-button ng-binding&quot;]</value>
+      <webElementGuid>564c736a-4b03-4ea4-88f6-6cad97f31d81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registerSuccessCover']/div/a</value>
+      <webElementGuid>70e3833d-3948-41bf-bd81-5806b78e1aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTINUE SHOPPING')]</value>
+      <webElementGuid>7a810aae-1330-45d3-8851-4180f8101903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/')])[8]</value>
+      <webElementGuid>797f7e62-ab79-4ff6-b10f-379febf5e455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[5]/div[2]/div/a</value>
+      <webElementGuid>d3966f01-5cf5-45d3-8be5-b896311f616b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/' and (text() = ' CONTINUE SHOPPING ' or . = ' CONTINUE SHOPPING ')]</value>
+      <webElementGuid>dba93767-c583-478b-8d1c-a1707c60834c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

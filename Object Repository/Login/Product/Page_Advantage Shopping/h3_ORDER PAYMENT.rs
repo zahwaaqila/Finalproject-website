@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_ORDER PAYMENT</name>
+   <tag></tag>
+   <elementGuidId>388112a4-38da-406c-b27d-870ec0c9eefe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.roboto-regular.sticky.fixedImportant.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>9707a9a9-29a9-4934-a67a-ca8757498cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular sticky fixedImportant ng-scope</value>
+      <webElementGuid>5c7bf5f6-fe7b-4898-851a-ce93b092ccf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>ORDER_PAYMENT</value>
+      <webElementGuid>226a40ef-069d-461e-b6ee-f2265df9f416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ORDER PAYMENT</value>
+      <webElementGuid>eebcdbf8-3a5d-4f22-9b9c-b994b73080ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;uiview ng-scope&quot;]/section[@class=&quot;ng-scope&quot;]/article[1]/h3[@class=&quot;roboto-regular sticky fixedImportant ng-scope&quot;]</value>
+      <webElementGuid>7bbbb5b6-9259-43a6-8442-3ddb28225557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/h3</value>
+      <webElementGuid>df54dc0e-2f79-4d7c-8ae1-f63535751a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'ORDER PAYMENT' or . = 'ORDER PAYMENT')]</value>
+      <webElementGuid>e544a6ec-0ea4-4683-b7b4-954873c25347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

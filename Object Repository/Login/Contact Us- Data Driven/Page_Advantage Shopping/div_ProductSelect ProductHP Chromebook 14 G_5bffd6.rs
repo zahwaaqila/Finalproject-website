@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProductSelect ProductHP Chromebook 14 G_5bffd6</name>
+   <tag></tag>
+   <elementGuidId>b581f143-c623-4282-84bf-0fe681519a2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportCover']/div[2]/sec-form/div/div/sec-view[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7774cbdb-f62a-4038-b2f2-a90080e8ac55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputContainer ng-scope</value>
+      <webElementGuid>caffdb09-06a9-40c3-8a05-b78885e26b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ProductSelect ProductHP Chromebook 14 G1(ENERGY STAR)HP Chromebook 14 G1(ES)HP ENVY - 17t Touch LaptopHP ENVY x360 - 15t LaptopHP Pavilion 15t Touch LaptopHP Pavilion 15z LaptopHP Pavilion 15z Touch LaptopHP Pavilion x360 - 11t Touch LaptopHP Spectre x360 - 13-4102dxHP Stream - 11-d020nr LaptopHP ZBook 17 G2 Mobile WorkstationProduct</value>
+      <webElementGuid>d7c49875-6efc-4c87-bde7-335be6d1c65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportCover&quot;)/div[2]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;splitter&quot;]/div[@class=&quot;inputMargin&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]</value>
+      <webElementGuid>cb8d736e-0e47-4831-87f2-5760612eee5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportCover']/div[2]/sec-form/div/div/sec-view[2]/div</value>
+      <webElementGuid>d29f7ff9-0908-4097-aeb3-30e0ce2cc6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/sec-view[2]/div</value>
+      <webElementGuid>0d3ccc51-72e3-4820-8a92-30e06229493a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ProductSelect ProductHP Chromebook 14 G1(ENERGY STAR)HP Chromebook 14 G1(ES)HP ENVY - 17t Touch LaptopHP ENVY x360 - 15t LaptopHP Pavilion 15t Touch LaptopHP Pavilion 15z LaptopHP Pavilion 15z Touch LaptopHP Pavilion x360 - 11t Touch LaptopHP Spectre x360 - 13-4102dxHP Stream - 11-d020nr LaptopHP ZBook 17 G2 Mobile WorkstationProduct' or . = 'ProductSelect ProductHP Chromebook 14 G1(ENERGY STAR)HP Chromebook 14 G1(ES)HP ENVY - 17t Touch LaptopHP ENVY x360 - 15t LaptopHP Pavilion 15t Touch LaptopHP Pavilion 15z LaptopHP Pavilion 15z Touch LaptopHP Pavilion x360 - 11t Touch LaptopHP Spectre x360 - 13-4102dxHP Stream - 11-d020nr LaptopHP ZBook 17 G2 Mobile WorkstationProduct')]</value>
+      <webElementGuid>a6f0850d-d47f-410c-94a7-71deeb047916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

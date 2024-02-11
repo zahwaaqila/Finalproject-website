@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Contact Us</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9db4be1d-7a2f-4d10-953a-cc25ddd22c64</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Laptops HP+Pavilion+15t+Touch+Laptop ican%40gmail.com ada+stock+warna+orange%3F</data>
+   <data>Laptops HP+ENVY+x360+-+15t+Laptop kila%40gmail.com dimana+tempat+reparasinya%3F</data>
+   <data>Laptops HP+Spectre+x360+-+13-4102dx ican1%40gmail.com rusak</data>
+   <data>Laptops HP+Chromebook+14+G1%28ES%29 kila%40gmail.com rusak</data>
+   <data>Headphones Beats+Studio+2+Over-Ear+Matte+Black+Headphones ican%40gmail.com suaranya+kecil</data>
+   <data>Tablets HP+Pro+Tablet+608+G1 kilakilu%40gmail.com touchscreen+mati</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Category1</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Product</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Subject</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

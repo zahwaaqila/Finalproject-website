@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Thank you for contacting Advantage support</name>
+   <tag></tag>
+   <elementGuidId>6e179eb6-d04a-4d1e-8aa2-ebaf3b5c3fc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.roboto-regular.successMessage.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='registerSuccessCover']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>10eeeca8-ef41-489d-919a-82e7b09d58e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular successMessage ng-binding</value>
+      <webElementGuid>0251d94d-6bb7-41dd-973b-6a57299499c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for contacting Advantage support.</value>
+      <webElementGuid>0920c73d-dc52-42dd-91e1-9b333037507b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerSuccessCover&quot;)/div[@class=&quot;center&quot;]/p[@class=&quot;roboto-regular successMessage ng-binding&quot;]</value>
+      <webElementGuid>3141e43e-4d03-433f-8986-583e1e2a234f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registerSuccessCover']/div/p</value>
+      <webElementGuid>8f2e04eb-75a2-4dc2-ad27-cc199803d671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[5]/div[2]/div/p</value>
+      <webElementGuid>096b5f77-943f-47fa-8527-eb1e447fb065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Thank you for contacting Advantage support.' or . = 'Thank you for contacting Advantage support.')]</value>
+      <webElementGuid>188daf7d-f193-4a18-b1e3-a39fb662ef22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

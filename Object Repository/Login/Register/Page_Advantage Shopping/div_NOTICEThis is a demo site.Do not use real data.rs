@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NOTICEThis is a demo site.Do not use real data</name>
+   <tag></tag>
+   <elementGuidId>bf11747e-bc86-4c57-a094-58281a437d12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#infoDemo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='infoDemo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebc1ebb7-c290-41c6-8853-77bfdfb627f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>infoDemo</value>
+      <webElementGuid>c3a77cbc-730c-4d79-855a-8c060511b628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    NOTICEThis is a demo site.Do not use real data.
+                </value>
+      <webElementGuid>351eaade-b555-4e2d-8a84-68df3b93386c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoDemo&quot;)</value>
+      <webElementGuid>95f94b65-5a7f-4b72-b0f6-d0d67dbe7710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='infoDemo']</value>
+      <webElementGuid>a04e1432-e28f-41b1-bff1-ab2d8bd8bbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registerCover']/div</value>
+      <webElementGuid>12a7a035-792d-4f2a-998e-170aaff13f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sec-form/div/div</value>
+      <webElementGuid>27ed0add-8eb6-4a47-9ee8-0777b239b85b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'infoDemo' and (text() = '
+                    NOTICEThis is a demo site.Do not use real data.
+                ' or . = '
+                    NOTICEThis is a demo site.Do not use real data.
+                ')]</value>
+      <webElementGuid>638c3251-0f1e-4151-a621-a622ad029e80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
