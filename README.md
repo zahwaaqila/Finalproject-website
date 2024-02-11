@@ -50,7 +50,7 @@
   - Mengunggah skrip pengujian ke TestOps sudah dilakukan.
 
 - **Eksekusi Uji:**
-  - Menjalankan "Koleksi Perjalanan Pengguna" di TestOps sebanyak tiga kali. 
+  - Menjalankan "Final Project Website" di TestOps sebanyak tiga kali. 
   - https://drive.google.com/file/d1LewKnTDK7r14-JLwm_Pccwyaex6LRaKN/view?usp=drive_link
 
 ## Detail Repositori Git
