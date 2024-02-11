@@ -41,5 +41,7 @@ WebUI.click(findTestObject('Object Repository/Login/Register/Page_Advantage Shop
 
 WebUI.click(findTestObject('Object Repository/Login/Register/Page_Advantage Shopping/button_REGISTER'))
 
+WebUI.delay(5)
+
 WebUI.closeBrowser()
 
